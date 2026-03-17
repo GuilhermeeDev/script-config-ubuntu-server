@@ -4,8 +4,6 @@ Scripts .sh para configuração inicial de ubuntu server 24.4.4 LTS recem instal
 ## Rode
 ```
 sudo apt update -y && sudo apt upgrade -y
-sudo apt dist-upgrade
-sudo apt full-upgrade
 sudo apt autoremove
 sudo apt autoclean
 sudo reboot
